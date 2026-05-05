@@ -33,5 +33,5 @@ Trong golden set 50 queries:
 
 ## Bonus challenge
 
-- [ ] Đã làm bonus (xem `bonus/`)
+- [X] Đã làm bonus (xem `bonus/`)
 - [ ] Pair work với: _<tên đồng đội nếu có>_
